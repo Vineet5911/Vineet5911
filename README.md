@@ -66,6 +66,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : 🌱 Learning Spring Boot, actively contributing to open source, and open to collaborations.</h3>
 
 ###
