@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a java developer<br><br>- 🔭 I’m a student of parul university<br>- 📚 I'm currently learning Spring boot & actively contributing to open source<br>- ⚡ In my free time I code</p>
+<p align="left">🚀 Java Developer | Student @ Parul University<br>🌱 Learning Spring Boot, DSA enthusiast<br>⚡ Actively contributing to open source<br>💻 Check out my LeetCode profile: LeetCode<br>🌐 Open to collaboration and project contributions</p>
 
 ###
 
